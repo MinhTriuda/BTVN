@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620645532699",
+    "project_id": "btvn-56412",
+    "storage_bucket": "btvn-56412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620645532699:android:fdc46d2e815c67576524be",
+        "android_client_info": {
+          "package_name": "com.example.bt_ve_nha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620645532699-o44rkrr5md2777lonmmj4b2mibeq75e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZe6NBtuNQmEb1sIT4MdEK02i_bHRr0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620645532699-o44rkrr5md2777lonmmj4b2mibeq75e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
